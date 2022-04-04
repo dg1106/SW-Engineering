@@ -12,7 +12,7 @@
 - 분기 커버리지 (Branch Coverage)
 - MC/DC (Modify Condition/Decision Coverage)
 
-
+---
 ## SW 개발 자가리뷰
 - 첫 코드는 일단 작성한다.
 - 정적 검증 도구를 이용한 문법 확인
